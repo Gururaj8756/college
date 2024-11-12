@@ -5,7 +5,7 @@
     <title>Instructor Information</title>
 </head>
 <body>
-    <h1>Meet Our Instructors</h1>
+    <h1>Following are branches </h1>
 
     <h2>
         Computer Science Engineering
